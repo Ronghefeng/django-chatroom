@@ -6,3 +6,4 @@ media/
 *.ipynb
 logs/
 */__pycache__
+*.pid
